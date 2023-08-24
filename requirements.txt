@@ -2,3 +2,5 @@ torch
 pyext==0.7
 deepspeed
 transformers
+jupyter
+ipykernel
